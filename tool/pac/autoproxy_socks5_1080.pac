@@ -5,7 +5,7 @@
  * GFWList From: local[/home/neucrack/data/projects/note/tool/pac/gfwlist.txt]
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 qnap.gowhy.fun:7890';
 var rules = [
     [
         [],
